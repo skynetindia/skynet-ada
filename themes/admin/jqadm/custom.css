@@ -1,0 +1,9 @@
+/*
+ * Custom blog CSS
+ */
+.aimeos .main-sidebar .menuitem-cms .icon:before {
+    content: "\F2CD";
+}
+.aimeos .main-sidebar .menuitem-blogs .icon:before {
+    content: "\F4A3";
+}

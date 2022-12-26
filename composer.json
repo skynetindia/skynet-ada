@@ -1,0 +1,32 @@
+{
+    "name": "skynetindia/sky-ada",
+    "description": "Aimeos ADA extension create by Skynet",
+	"keywords": ["aimeos", "extension","blog"],
+	"type": "aimeos-extension",
+	"license": "LGPL-3.0",
+	"prefer-stable": true,
+	"minimum-stability": "dev",
+	"require": {
+		"php": "^8.0.10",
+		"aimeos/aimeos-laravel": "^2022.10"
+	},
+	"autoload": {
+		"psr-4": {
+			"Aimeos\\": "src"
+		},
+        "psr-0": {
+            "Aimeos\\Shop\\": "src/"
+        },
+		"classmap": [
+			"src"
+		]
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Aimeos\\": "tests"
+		},
+		"classmap": [
+			"tests"
+		]
+	}
+}

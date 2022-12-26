@@ -1,0 +1,22 @@
+{
+	"projectName": "blog",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "blog CSS",
+		"file": "blog.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "blog JS",
+		"file": "blog.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
