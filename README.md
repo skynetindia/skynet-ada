@@ -1,10 +1,10 @@
-# Skynet-ADA
-`Skynet-ADA` extension provide ADA features in aimeos through which customer will be able to use ada features within their application
+# skynet-ada
+`skynet-ada` extension provide ADA features in aimeos through which customer will be able to use ada features within their application
 
 
 ### Setup
 
-To Install this use `composer require skynetindia/Skynet-ADA`
+To Install this use `composer require skynetindia/skynet-ada`
 
 Please make sure you execute the Aimeos database setup script which will create all the necessary tables:
 
