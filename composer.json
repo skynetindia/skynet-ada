@@ -1,7 +1,7 @@
 {
     "name": "skynetindia/skynet-ada",
     "description": "Aimeos ADA extension create by Skynet",
-	"keywords": ["aimeos", "extension","blog"],
+	"keywords": ["aimeos", "extension","ADA"],
 	"type": "aimeos-extension",
 	"license": "LGPL-3.0",
 	"prefer-stable": true,
